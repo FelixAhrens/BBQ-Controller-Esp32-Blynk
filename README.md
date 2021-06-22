@@ -1,10 +1,10 @@
 # BBQ-Controller
 
-Controls the temperature inside the BBQ using a fan, PID controller and Blynk IoT App.
+Controls the temperature inside a charcoal BBQ using a esp32, fan, PID controller and Blynk IoT App.
 With four temperature sensors. 
 
 
-Files for case (stl), PCB (gerber), Arduino code.
+Files for case (3d print, stl), PCB (gerber), Arduino code.
 
 
 More detailed descriptions with photos will be uploaded in the future.
