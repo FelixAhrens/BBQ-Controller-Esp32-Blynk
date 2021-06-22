@@ -7,6 +7,9 @@ With four temperature sensors.
 Files for case (stl), PCB (gerber), Arduino code.
 
 
+More detailed descriptions with photos will be uploaded in the future.
+
+
 #### Instructions
 
 1. Get components
@@ -17,17 +20,17 @@ Files for case (stl), PCB (gerber), Arduino code.
 
 4. Assemble Case & PCB
 
-5. Controller (NodeMCU)
+5. Controller
 
     a) Adjust code to own values (todo tags in code)
   
-    b) Upload program to controller
+    b) Upload code to controller
     
-6. Temperature sensors
+6. Temperature sensors 
 
-    a) Test temperature probes
+    a) Test temperature probes 
     
-    #### If it shows the correct values skip b,c & d
+    #### Only necessary if the correct values are not displayed (probably because the values depend on the exact input voltage):
     
     b) Create a measurement series
     
@@ -43,6 +46,8 @@ Files for case (stl), PCB (gerber), Arduino code.
 1x Radial fan (12V, e.g. Titan TFD-B7530M12C Lüfter, 76,2 x 72 x 29,5mm)
 
 1x NodeMCU Lua Lolin V3 Modul mit ESP8266 12E
+
+1x ADV ADS1115
 
 1x HX Mini 360 (DC-DC step down)
 
