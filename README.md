@@ -43,30 +43,26 @@ More detailed descriptions with photos will be uploaded in the future.
 
 #### What is needed:
 
+##### Some type designations are in the electrical circuit diagram.
+
+##### Attention: adapt the PCB if you use other components.
+
 1x Radial fan (12V, e.g. Titan TFD-B7530M12C Lüfter, 76,2 x 72 x 29,5mm)
 
-1x NodeMCU Lua Lolin V3 Modul mit ESP8266 12E
+1x ESP32 (e.g. NodeMCU Module WLAN WiFi Dev Kit C Development Board with CP2102)
 
-1x ADV ADS1115
+1x ADC ADS1115
 
 1x HX Mini 360 (DC-DC step down)
 
-1x Mosfet MJE182
+1x Mosfet 
 
-1x Power Supply Barrel 2,1mm
+1x Power Supply Barrel 2,1mm and corresponding power supply unit (12V).
 
 3x Audio jack female (2.5mm)
 
 3x Temperature probe with jack (2.5mm)
 
-4x Resistor (electrical schematic)
+4x Resistor
 
-1x Diode
-
-
-#### Files: 
-STL files for 3D print
-
-Gerber/ zip folder for PCD print/order
-
-Electrical schematic: circuit diagram from PCD
+1x Diode 
