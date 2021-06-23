@@ -43,7 +43,7 @@ More detailed descriptions with photos will be uploaded in the future.
 
 #### What is needed:
 
-##### Some type designations are in the electrical circuit diagram.
+##### Used resistors and other type designations in the electrical circuit diagram.
 
 ##### Attention: adapt the PCB if you use other components.
 
@@ -55,14 +55,18 @@ More detailed descriptions with photos will be uploaded in the future.
 
 1x HX Mini 360 (DC-DC step down)
 
-1x Mosfet 
+1x Mosfet MJE182 / Transistor
 
 1x Power Supply Barrel 2,1mm and corresponding power supply unit (12V).
 
-3x Audio jack female (2.5mm)
+4x Audio jack female (2.5mm)
 
-3x Temperature probe with jack (2.5mm)
+4x Temperature probe with jack (2.5mm)
 
-4x Resistor
+5x Resistor
 
 1x Diode 
+
+1x 6x6 push button (reset)
+
+2x SPDT changeover switch (to switch the electrical circuit, but it is not mandatory)
